@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Duc Thien from VN<br><br>- 🔭 I’m working as a normal person<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I play game</p>
+<p align="left">I'm Nguyen Duc Thien from Thu 3 Ca 3<br><br>- 🔭 I’m working as a normal person<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I play game</p>
 
 ###
 
